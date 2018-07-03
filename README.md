@@ -1,2 +1,2 @@
 # HackerRank
-Solutions to the HackerRank practice problems.
+Comprehensive solutions to the HackerRank practice problems.
